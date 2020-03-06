@@ -12,6 +12,7 @@ public with sharing class ChangePasswordController {
     }     
     //Constructor Commented by Abhishek to fix CRD
     /*
-    public ChangePasswordController() {}
+    test
+    public () {}
     */
 }
